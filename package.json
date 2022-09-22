@@ -38,7 +38,7 @@
     "istanbul": "^0.4.5",
     "mocha": "^2.3.2",
     "node-xmpp-client": "^3.2.0",
-    "node-xmpp-component": "^1.0.0-alpha2",
+    "node-xmpp-component": "^2.0.9",
     "pem": "^1.8.0",
     "should": "^7.1.0",
     "sinon": "^14.0.0"
