@@ -29,7 +29,7 @@
     "debug": "^4.3.4",
     "es6-collections": "^0.5.5",
     "hat": "0.0.3",
-    "node-xmpp-core": "^2.0.0",
+    "node-xmpp-core": "^5.0.9",
     "ws": "^1.1.5"
   },
   "devDependencies": {
