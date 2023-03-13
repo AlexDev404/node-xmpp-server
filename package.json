@@ -41,6 +41,6 @@
     "node-xmpp-component": "^2.0.9",
     "pem": "^1.8.0",
     "should": "^7.1.0",
-    "sinon": "^14.0.0"
+    "sinon": "^15.0.2"
   }
 }
